@@ -19,7 +19,7 @@ The extension is distributed under the MIT license. See LICENSE.txt.
 
 ## Features
 - Post directly from VS Code.
-- Quick view post processor variables and functions.
+- Quick view post processor variables and functions. 
 - Jump to code by clicking line in NC output.
 
 
